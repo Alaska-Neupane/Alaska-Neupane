@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alaska
+# 🪐 Hey, I'm Alaska
 
 > 🚀 Building, breaking, and rebuilding — in code and in life.
 
